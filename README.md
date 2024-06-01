@@ -6,9 +6,10 @@ I used the Quora Insincere Questions Classification dataset, which includes uniq
 
 Learning Objectives:
 
-Utilize various pre-trained NLP text embedding models from TensorFlow Hub.
-Perform transfer learning to fine-tune models on custom text data.
-Visualize model performance metrics with TensorBoard.
+1. Utilize various pre-trained NLP text embedding models from TensorFlow Hub.
+2. Perform transfer learning to fine-tune models on custom text data.
+3. Visualize model performance metrics with TensorBoard.
+
 Project Tasks:
 
 Setup TensorFlow and Colab Runtime:
