@@ -1,0 +1,2 @@
+# Detecting-Toxic-Content-on-Quora-with-Transfer-Learning-Using-TensorFlow-Hub
+This project demonstrates the use of transfer learning for text classification, specifically focusing on identifying insincere questions on Quora. By leveraging pre-trained models from TensorFlow Hub, such as Universal Sentence Encoder, NNLM, and BERT, the project aims to improve model generalization and save training resources.
